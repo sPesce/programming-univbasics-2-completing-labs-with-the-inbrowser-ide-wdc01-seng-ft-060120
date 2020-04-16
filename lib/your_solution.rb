@@ -1,2 +1,2 @@
 hello = "Hello World!"
-puts Hello
+puts hello
